@@ -2,8 +2,8 @@
 
 중요하게 생각되는 부분 간단하게 정리!
 
-[공식문서](https://reactnative.dev/docs/getting-started)
-[코어컴포넌트](https://reactnative.dev/docs/components-and-apis)
+- [공식문서](https://reactnative.dev/docs/getting-started)
+- [코어컴포넌트](https://reactnative.dev/docs/components-and-apis)
 
 > 2023-06-15
 
@@ -21,3 +21,4 @@
 
 - [스크롤 최적화](./study/07_ScrollView.md)
 - [앱 디버깅](./study/08_앱디버깅.md)
+- [Todolist 코드정리](./study/09_간단한투두앱코드.md)
