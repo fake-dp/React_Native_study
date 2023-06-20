@@ -3,7 +3,6 @@
 중요하게 생각되는 부분 간단하게 정리!
 
 [공식문서](https://reactnative.dev/docs/getting-started)
-
 [코어컴포넌트](https://reactnative.dev/docs/components-and-apis)
 
 > 2023-06-15
