@@ -1,5 +1,8 @@
 # 스터디 기록
 
+[공식문서](https://reactnative.dev/docs/getting-started)
+[코어컴포넌트](https://reactnative.dev/docs/components-and-apis)
+
 > 2023-06-15
 
 - [네이티브 시작하기](./study/01_개요.md)
