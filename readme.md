@@ -4,8 +4,6 @@
 
 [공식문서](https://reactnative.dev/docs/getting-started)
 
-<br />
-
 [코어컴포넌트](https://reactnative.dev/docs/components-and-apis)
 
 > 2023-06-15
